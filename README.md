@@ -1,5 +1,5 @@
 # Uc11LeiloesTDS
-Reposiório para a atividade do curso Técnico em desenvolvimento de sistemas
+Reposiório para as atividades da uc11 do curso Técnico em desenvolvimento de sistemas
 
 Esta atividade visa desenvolver os seguintes pontos:
   Criação do repositório da aplicação no GitHub
